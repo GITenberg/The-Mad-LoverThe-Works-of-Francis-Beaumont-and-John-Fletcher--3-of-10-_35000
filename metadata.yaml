@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4606
     wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35000#The-Mad-LoverThe-Works-of-Francis-Beaumont-and-John-Fletcher--3-of-10-
 gutenberg_issued: '2011-01-18'
 gutenberg_type: Text
 identifiers:
